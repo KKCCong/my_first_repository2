@@ -128,4 +128,3 @@ qplot(y)
 x
 y
 
-brew install git
